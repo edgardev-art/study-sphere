@@ -1,0 +1,6 @@
+{
+  "name": "StudySphere - All-in-One Student Super App",
+  "description": "An intelligent, all-in-one digital learning ecosystem combining an AI tutor, LMS, digital notebook, smart planner, exam prep, and gamified student community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
